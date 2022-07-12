@@ -11,4 +11,4 @@ router.get('/fish', PageController.fish);
 
 router.get('/search', SearchController.search)
 
-export default Router;
+export default router;
